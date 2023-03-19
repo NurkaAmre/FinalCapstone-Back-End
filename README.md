@@ -98,7 +98,7 @@ Book Store is a web application that allows users to add books to the library, r
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://libba.onrender.com)
+- [Live Demo Link](https://libba.onrender.com](https://frontend-libba.onrender.com)
 ***
 - [BigBam Capstone Front End App](https://github.com/NurkaAmre/Final-Capstone-Front-end).
 
