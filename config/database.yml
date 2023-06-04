@@ -85,4 +85,5 @@ production:
   <<: *default
   database: libba_production
   username: libba
-  password: <%= ENV["LIBBA_DATABASE_PASSWORD"] %>
+  password: <%= ENV["DATABASE_URL"] %>
+  url: <%= ENV['DATABASE_URL'] %>
